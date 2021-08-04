@@ -1,2 +1,2 @@
 # git-test
-repo mencoba git remotes
+repo mencoba git
